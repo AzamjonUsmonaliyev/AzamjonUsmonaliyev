@@ -5,8 +5,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8BFF63&random=false&width=435&lines=MY+SKILLS+%3A+Python++Django++DRF+(API)++;SQL++Git++Github+Telegram+Bot)](https://git.io/typing-svg)
 
 
-
-<h1 align="center">Hi 👋, I'm A'zamjon</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azamjonusmonaliyev&label=Profile%20views&color=0e75b6&style=flat" alt="azamjonusmonaliyev" /> </p>
 
 <h3 align="left">Connect with me:</h3>

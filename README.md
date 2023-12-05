@@ -2,4 +2,4 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Assalomu+alaykum!;My+name+is+A'zamjon+.+;Back-end+web+developer)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8BFF63&random=false&width=435&lines=MY+SKILLS+%3A+Python++Django++DRF+(API)++SQL++Git++Github+Telegram+Bot)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8BFF63&random=false&width=435&lines=MY+SKILLS+%3A+Python++Django++DRF+(API)++;SQL++Git++Github+Telegram+Bot)](https://git.io/typing-svg)

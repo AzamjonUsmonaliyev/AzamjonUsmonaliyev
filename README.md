@@ -6,7 +6,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azamjonusmonaliyev&label=Profile%20views&color=0e75b6&style=flat" alt="azamjonusmonaliyev" /> </p>
- <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="azamjonusmonaliyev" /> 
+ <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="azamjonusmonaliyev" style="flat:right" /> 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/azamjon-usmonaliyev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="azamjon-usmonaliyev" height="30" width="40" /></a>
